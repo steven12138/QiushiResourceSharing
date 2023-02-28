@@ -2,7 +2,7 @@
 
 ### 课表
 
-![Grade1A](C:\Users\m1861\UserData\QiushiResourceSharing\Grade1\Grade1A.png)
+![Grade1A](Grade1A.png)
 
 ### 注意事项
 

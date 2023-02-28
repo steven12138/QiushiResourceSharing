@@ -6,7 +6,7 @@
 4. 教材：陈纪修《数学分析》（第三版）
 5. 建议手动购买答案《数学分析习题全解指南》
 
-<img src="C:\Users\m1861\UserData\QiushiResourceSharing\MathematicalAnalysisA\book.jpg" alt="book" style="zoom:33%;" />
+<img src="book.jpg" alt="book" style="zoom:33%;" />
 
 ## 课程细节（2022A学期）
 
